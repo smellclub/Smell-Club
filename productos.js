@@ -9,7 +9,7 @@ const productos = [
         tipo: "decant",
         precio5ml: 250,
         precio10ml: 400,
-        imagen: "img/vulcan.jpg", // Acá irá tu foto real más adelante
+        imagen: "vulcan.jpg",
         linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20un%20decant%20de%20Vulcan%20Feu"
     },
     {
@@ -19,7 +19,7 @@ const productos = [
         tipo: "decant",
         precio5ml: 250,
         precio10ml: 400,
-        imagen: "img/khamrah.jpg",
+        imagen: "khamrah.jpg",
         linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20un%20decant%20de%20Khamrah"
     },
     {
@@ -29,7 +29,7 @@ const productos = [
         tipo: "decant",
         precio5ml: 250,
         precio10ml: 400,
-        imagen: "img/club-nuit-bling.jpg",
+        imagen: "club-nuit-bling.jpg",
         linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20un%20decant%20de%20Club%20de%20Nuit%20Bling"
     },
     {
@@ -39,7 +39,7 @@ const productos = [
         tipo: "decant",
         precio5ml: 250,
         precio10ml: 400,
-        imagen: "img/emeer.jpg",
+        imagen: "emeer.jpg",
         linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20un%20decant%20de%20Emeer"
     },
     {
@@ -49,7 +49,7 @@ const productos = [
         tipo: "decant",
         precio5ml: 250,
         precio10ml: 400,
-        imagen: "img/9pm.jpg",
+        imagen: "9pm.jpg",
         linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20un%20decant%20de%209PM%20Night%20Out"
     },
     {
@@ -59,7 +59,7 @@ const productos = [
         tipo: "decant",
         precio5ml: 250,
         precio10ml: 400,
-        imagen: "img/asad.jpg",
+        imagen: "asad.jpg",
         linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20un%20decant%20de%20Asad"
     },
     {
@@ -69,7 +69,7 @@ const productos = [
         tipo: "decant",
         precio5ml: 250,
         precio10ml: 400,
-        imagen: "img/fakhar.jpg",
+        imagen: "fakhar.jpg",
         linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20un%20decant%20de%20Fakhar"
     },
     {
@@ -79,7 +79,7 @@ const productos = [
         tipo: "decant",
         precio5ml: 250,
         precio10ml: 400,
-        imagen: "img/mandarin.jpg",
+        imagen: "mandarin.jpg",
         linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20un%20decant%20de%20Mandarin%20Elixir"
     },
     {
@@ -89,7 +89,7 @@ const productos = [
         tipo: "decant",
         precio5ml: 250,
         precio10ml: 400,
-        imagen: "img/eclaire.jpg",
+        imagen: "eclaire.jpg",
         linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20un%20decant%20de%20Éclaire"
     },
     {
@@ -99,7 +99,7 @@ const productos = [
         tipo: "decant",
         precio5ml: 400,
         precio10ml: 700,
-        imagen: "img/scandal.jpg",
+        imagen: "scandal.jpg",
         linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20un%20decant%20de%20Scandal%20pour%20Homme"
     },
     {
@@ -109,7 +109,7 @@ const productos = [
         tipo: "decant",
         precio5ml: 600,
         precio10ml: 1100,
-        imagen: "img/jpg-paradise.jpg",
+        imagen: "jpg-paradise.jpg",
         linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20un%20decant%20de%20JPG%20Paradise%20Garden"
     },
 
@@ -122,7 +122,7 @@ const productos = [
         marca: "Armaf",
         tipo: "completo",
         precio: 2599,
-        imagen: "img/odyssey-candee.jpg",
+        imagen: "odyssey-candee.jpg",
         linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Candee"
     },
     {
@@ -131,7 +131,7 @@ const productos = [
         marca: "Armaf",
         tipo: "completo",
         precio: 2599,
-        imagen: "img/odyssey-mandarin.jpg",
+        imagen: "odyssey-mandarin.jpg",
         linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Mandarin%20Sky"
     },
     {
@@ -140,7 +140,7 @@ const productos = [
         marca: "Armaf",
         tipo: "completo",
         precio: 2599,
-        imagen: "img/odyssey-homme.jpg",
+        imagen: "odyssey-homme.jpg",
         linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Homme"
     },
     {
@@ -149,7 +149,7 @@ const productos = [
         marca: "Armaf",
         tipo: "completo",
         precio: 2599,
-        imagen: "img/odyssey-mega.jpg",
+        imagen: "odyssey-mega.jpg",
         linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Mega"
     },
     {
@@ -158,7 +158,7 @@ const productos = [
         marca: "Lattafa",
         tipo: "completo",
         precio: 1999,
-        imagen: "img/honor-glory.jpg",
+        imagen: "honor-glory.jpg",
         linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Honor%20%26%20Glory"
     },
     {
@@ -167,7 +167,7 @@ const productos = [
         marca: "Lattafa",
         tipo: "completo",
         precio: 1999,
-        imagen: "img/oud-glory.jpg",
+        imagen: "oud-glory.jpg",
         linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Oud%20for%20Glory"
     },
     {
@@ -176,7 +176,7 @@ const productos = [
         marca: "Lattafa",
         tipo: "completo",
         precio: 1999,
-        imagen: "img/amethyst.jpg",
+        imagen: "amethyst.jpg",
         linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Amethyst"
     },
     {
@@ -185,7 +185,7 @@ const productos = [
         marca: "Armaf",
         tipo: "completo",
         precio: 2399,
-        imagen: "img/cdn-intense.jpg",
+        imagen: "cdn-intense.jpg",
         linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Cdn%20Intense"
     },
     {
@@ -194,7 +194,7 @@ const productos = [
         marca: "Armaf",
         tipo: "completo",
         precio: 2599,
-        imagen: "img/odyssey-spectra.jpg",
+        imagen: "odyssey-spectra.jpg",
         linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Spectra"
     },
     {
@@ -203,7 +203,7 @@ const productos = [
         marca: "Armaf",
         tipo: "completo",
         precio: 2599,
-        imagen: "img/odyssey-pink.jpg",
+        imagen: "odyssey-pink.jpg",
         linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
     }
 ];
