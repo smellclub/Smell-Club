@@ -97,8 +97,8 @@ const productos = [
         nombre: "Scandal pour Homme",
         marca: "Jean Paul Gaultier",
         tipo: "decant",
-        precio5ml: 400,
-        precio10ml: 700,
+        precio5ml: 600,
+        precio10ml: 1100,
         imagen: "scandal.jpg",
         linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20un%20decant%20de%20Scandal%20pour%20Homme"
     },
