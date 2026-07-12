@@ -180,7 +180,7 @@ const productos = [
         linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Amethyst"
     },
     {
-        id: "perfume-cdn-intense",
+        id: "perfume-club de nuit-intense",
         nombre: "Cdn Intense",
         marca: "Armaf",
         tipo: "completo",
