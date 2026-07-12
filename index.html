@@ -1,93 +1,79 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SmellClub | Perfumes Árabes</title>
-  <meta name="description" content="Perfumes árabes originales y decants premium en Uruguay.">
-  <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SmellClub | Perfumería Premium & Decants</title>
+    <meta name="description" content="Perfumes árabes originales y decants premium en Uruguay. Descubrí tu fragancia ideal.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-<header class="header">
-  <div class="logo">SMELLCLUB</div>
-  <nav>
-    <a href="#perfumes">Perfumes</a>
-    <a href="#decants">Decants</a>
-    <a href="#contacto">Contacto</a>
-  </nav>
-</header>
+    <header class="main-header">
+        <div class="header-container">
+            <a href="#" class="logo">SMELLCLUB</a>
+            <nav class="nav-menu">
+                <a href="#perfumes">Perfumes</a>
+                <a href="#decants">Decants</a>
+                <a href="#nosotros">Nosotros</a>
+                <a href="#contacto">Contacto</a>
+            </nav>
+            <div class="menu-toggle" id="mobile-menu">
+                <i class="fa-solid fa-bars"></i>
+            </div>
+        </div>
+    </header>
 
-<section class="hero">
-  <div class="hero-content">
-    <h1>Perfumes Árabes Originales</h1>
-    <p>Fragancias exclusivas y decants premium en Uruguay.</p>
-    <div class="buttons">
-      <a class="btn gold" href="#perfumes">Ver perfumes</a>
-      <a class="btn" href="https://wa.me/59894055919" target="_blank">WhatsApp</a>
-    </div>
-  </div>
-</section>
+    <section class="hero">
+        <div class="hero-overlay"></div>
+        <div class="hero-content">
+            <h1>Perfumes Árabes Originales & Decants</h1>
+            <p>Fragancias exclusivas importadas. Descubrí el aroma que te representa con la elegancia que merecías.</p>
+            <div class="hero-features">
+                <span><i class="fa-solid fa-shield-halved"></i> 100% Originales</span>
+                <span><i class="fa-solid fa-truck"></i> Envíos a todo Uruguay</span>
+                <span><i class="fa-solid fa-vial"></i> Decants desde 2ml</span>
+            </div>
+            <div class="hero-buttons">
+                <a href="#perfumes" class="btn btn-gold">Ver Catálogo</a>
+                <a href="#decants" class="btn btn-outline">Explorar Decants</a>
+            </div>
+        </div>
+    </section>
 
-<section id="perfumes" class="section">
-  <h2>Perfumes</h2>
-  <div class="grid">
-    <div class="card"><h3>Odyssey Candee</h3><p>$2599</p></div>
-    <div class="card"><h3>Odyssey Mandarin Sky</h3><p>$2599</p></div>
-    <div class="card"><h3>Odyssey Homme</h3><p>$2599</p></div>
-    <div class="card"><h3>Odyssey Mega</h3><p>$2599</p></div>
-    <div class="card"><h3>Honor & Glory</h3><p>$1999</p></div>
-    <div class="card"><h3>Oud for Glory</h3><p>$1999</p></div>
-    <div class="card"><h3>Amethyst</h3><p>$1999</p></div>
-    <div class="card"><h3>Club de Nuit Intense</h3><p>$2399</p></div>
-    <div class="card"><h3>Odyssey Spectra</h3><p>$2599</p></div>
-    <div class="card"><h3>Odyssey Pink Pop</h3><p>$2599</p></div>
-  </div>
-</section>
+    <main>
+        <section id="perfumes" class="products-section container">
+            <h2 class="section-title">Perfumes Completos</h2>
+            <div class="products-grid" id="perfumes-container">
+                </div>
+        </section>
 
-<section id="decants" class="section dark">
-  <h2>Decants</h2>
+        <section id="decants" class="products-section container section-dark">
+            <h2 class="section-title">Nuestros Decants</h2>
+            <div class="products-grid" id="decants-container">
+                </div>
+        </section>
+    </main>
 
-  <div class="card full">
-    <h3>5 ml — $250 | 10 ml — $400</h3>
-    <ul>
-      <li>Vulcan Feu</li>
-      <li>Khamrah</li>
-      <li>Club de Nuit Bling</li>
-      <li>Emeer</li>
-      <li>9PM Night Out</li>
-      <li>Asad</li>
-      <li>Fakhar</li>
-      <li>Mandarin Elixir</li>
-      <li>Éclaire</li>
-    </ul>
-  </div>
+    <a href="https://wa.me/59894055919" class="whatsapp-float" target="_blank" rel="noopener noreferrer">
+        <i class="fa-brands fa-whatsapp"></i>
+    </a>
 
-  <div class="card full">
-    <h3>5 ml — $400 | 10 ml — $700</h3>
-    <ul>
-      <li>Scandal Pour Homme</li>
-    </ul>
-  </div>
+    <footer class="main-footer">
+        <div class="footer-container container">
+            <p>&copy; 2026 SmellClub. Todos los derechos reservados.</p>
+            <div class="footer-socials">
+                <a href="https://instagram.com/smellclubpf.uy" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-instagram"></i></a>
+                <a href="https://wa.me/59894055919" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-whatsapp"></i></a>
+            </div>
+        </div>
+    </footer>
 
-  <div class="card full">
-    <h3>5 ml — $600 | 10 ml — $1100</h3>
-    <ul>
-      <li>JPG Paradise Garden</li>
-    </ul>
-  </div>
-</section>
-
-<section id="contacto" class="section">
-  <h2>Contacto</h2>
-  <p>📱 WhatsApp: <a href="https://wa.me/59894055919" target="_blank">+598 94 055 919</a></p>
-  <p>📸 Instagram: <a href="https://instagram.com/smellclubpf.uy" target="_blank">@smellclubpf.uy</a></p>
-</section>
-
-<footer class="footer">
-  <p>© 2026 SmellClub — Perfumes Árabes y Decants</p>
-</footer>
-
-<script src="script.js"></script>
+    <script src="productos.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>
