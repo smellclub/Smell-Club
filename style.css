@@ -427,3 +427,14 @@ h1, h2, h3 {
     background-color: var(--gold);
     color: var(--bg-dark);
 }
+.decant-prices {
+    display: flex;
+    justify-content: space-around;
+    font-size: 14px;
+    color: var(--white);
+    margin-top: auto;
+    margin-bottom: 15px;
+    border-top: 1px solid rgba(200, 169, 106, 0.1);
+    border-bottom: 1px solid rgba(200, 169, 106, 0.1);
+    padding: 6px 0;
+}
