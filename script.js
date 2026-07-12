@@ -46,4 +46,28 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     cargarProductos();
-});
+// --- LÓGICA DEL MENÚ MÓVIL ---
+    const mobileMenuBtn = document.getElementById("mobile-menu");
+    const navMenu = document.querySelector(".nav-menu");
+
+    if (mobileMenuBtn && navMenu) {
+        mobileMenuBtn.addEventListener("click", () => {
+            navMenu.classList.toggle("active");
+            // Cambia el icono de barras por una X cuando está abierto
+            const icon = mobileMenuBtn.querySelector("i");
+            if (navMenu.classList.contains("active")) {
+                icon.className = "fa-solid fa-xmark";
+            } else {
+                icon.className = "fa-solid fa-bars";
+            }
+        });
+
+        // Cierra el menú automáticamente cuando el usuario toca una opción
+        const menuLinks = navMenu.querySelectorAll("a");
+        menuLinks.forEach(link => {
+            link.addEventListener("click", () => {
+                navMenu.classList.remove("active");
+                mobileMenuBtn.querySelector("i").className = "fa-solid fa-bars";
+            });
+        });
+    }});
