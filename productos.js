@@ -207,3 +207,164 @@ const productos = [
         linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
     }
 ];
+  {
+        id: "perfume-mayar-natural-intense",
+        nombre: "Mayar Natural Intense",
+        marca: "Lattafa",
+        tipo: "completo",
+        precio: 2299,
+        imagen: "mayar.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Mandarin%20Sky"
+    },  {
+        id: "perfume-haya",
+        nombre: "Haya",
+        marca: "Lattafa",
+        tipo: "completo",
+        precio: 2299,
+        imagen: "haya.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Mandarin%20Sky"
+    },  {
+        id: "perfume-sekeena",
+        nombre: "Sekeena",
+        marca: "Lattafa",
+        tipo: "completo",
+        precio: 2199,
+        imagen: "sekeena.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Mandarin%20Sky"
+    },  {
+        id: "perfume-emaan",
+        nombre: "Emaan",
+        marca: "Lattafa",
+        tipo: "completo",
+        precio: 2299,
+        imagen: "emaan.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Mandarin%20Sky"
+    },  {
+        id: "perfume-eclaire",
+        nombre: "Eclaire",
+        marca: "Lattafa",
+        tipo: "completo",
+        precio: 2399,
+        imagen: "eclaire.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Mandarin%20Sky"
+    },  {
+        id: "perfume-noble",
+        nombre: "Noble Blush",
+        marca: "Lattafa",
+        tipo: "completo",
+        precio: 2399,
+        imagen: "noble.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Mandarin%20Sky"
+    },  {
+        id: "perfume-club-nuit-white-imperiale",
+        nombre: "Club Nuit White Imperiale",
+        marca: "Armaf",
+        tipo: "completo",
+        precio: 2699,
+        imagen: "imperiale.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Mandarin%20Sky"
+    }, {
+        id: "perfume-woman",
+        nombre: "Club De Nuit Woman",
+        marca: "Armaf",
+        tipo: "completo",
+        precio: 2399,
+        imagen: "woman.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Mandarin%20Sky"
+    }, {
+        id: "perfume-club-nuit",
+        nombre: "Club De Nuit Maleka ",
+        marca: "Armaf",
+        tipo: "completo",
+        precio: 3199,
+        imagen: "maleka.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Mandarin%20Sky"
+    }, {
+        id: "perfume-qahwa",
+        nombre: "Kamrah Qahwa",
+        marca: "Lattafa",
+        tipo: "completo",
+        precio: 2399,
+        imagen: "qahwa.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Mandarin%20Sky"
+    }, {
+        id: "perfume-dukhan",
+        nombre: "Kamrah Dukhan",
+        marca: "Lattafa",
+        tipo: "completo",
+        precio: 2899,
+        imagen: "dukhan.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Mandarin%20Sky"
+    }, {
+        id: "perfume-fakhar-gold",
+        nombre: "Fakar Gold Extrait",
+        marca: "Lattafa",
+        tipo: "completo",
+        precio: 2299,
+        imagen: "fakhar gold.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Mandarin%20Sky"
+    }, {
+        id: "perfume-fakhar-rose",
+        nombre: "Fakhar Rose",
+        marca: "Lattafa",
+        tipo: "completo",
+        precio: 2299,
+        imagen: "fakhar rose.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Mandarin%20Sky"
+    }, {
+        id: "perfume-dive",
+        nombre: "9am Dive",
+        marca: "Afnan",
+        tipo: "completo",
+        precio: 2699,
+        imagen: "dive.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Mandarin%20Sky"
+    }, {
+        id: "perfume-salvo",
+        nombre: "Salvo Intense",
+        marca: "Maison Alhambra",
+        tipo: "completo",
+        precio: 2099,
+        imagen: "salvo.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Mandarin%20Sky"
+    }, {
+        id: "perfume-sceptre",
+        nombre: "Sceptre Malachite",
+        marca: "Maison Alhambra",
+        tipo: "completo",
+        precio: 2299,
+        imagen: "malachite.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Mandarin%20Sky"
+    }, {
+        id: "perfume-angham",
+        nombre: "Angham",
+        marca: "Lattafa",
+        tipo: "completo",
+        precio: 2199,
+        imagen: "angham.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Mandarin%20Sky"
+    }, {
+        id: "perfume-musamam",
+        nombre: "Musamam",
+        marca: "Lattafa",
+        tipo: "completo",
+        precio: 2599,
+        imagen: "mussamam.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Mandarin%20Sky"
+    }, {
+        id: "perfume-radio",
+        nombre: "Vintage Radio",
+        marca: "Lattafa",
+        tipo: "completo",
+        precio: 2499,
+        imagen: "radio.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Mandarin%20Sky"
+    }, {
+        id: "perfume-ansaam",
+        nombre: "Ansaam Gold",
+        marca: "Lattafa",
+        tipo: "completo",
+        precio: 2499,
+        imagen: "ansaam.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Mandarin%20Sky"
+    },
