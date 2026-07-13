@@ -79,7 +79,7 @@ const productos = [
         tipo: "decant",
         precio5ml: 250,
         precio10ml: 400,
-        imagen: "elixir.jpg",
+        imagen: "mandarin.jpg",
         linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20un%20decant%20de%20Mandarin%20Elixir"
     },
     {
