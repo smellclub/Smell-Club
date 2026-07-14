@@ -205,7 +205,7 @@ const productos = [
         precio: 2599,
         imagen: "odyssey-pink.jpg",
         linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
-    }
+    },
     {
     id: "perfume-island-breeze",
     nombre: "Island Breeze",
