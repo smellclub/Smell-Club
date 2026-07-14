@@ -307,7 +307,7 @@ const productos = [
 },
 {
     id: "perfume-cdn-bling",
-    nombre: "CDN Bling",
+    nombre: "Club de Nuit Bling",
     marca: "Armaf",
     tipo: "completo",
     precio: 3099,
