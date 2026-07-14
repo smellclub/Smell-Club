@@ -206,4 +206,139 @@ const productos = [
         imagen: "odyssey-pink.jpg",
         linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
     }
+{
+    id: "perfume-island-breeze",
+    nombre: "Island Breeze",
+    marca: "Maison Alhambra",
+    tipo: "completo",
+    precio: 3400,
+    imagen: "island-breeze.jpg",
+    linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20Island%20Breeze"
+},
+{
+    id: "perfume-veneno-scarlet",
+    nombre: "Veneno Scarlet",
+    marca: "French Avenue",
+    tipo: "completo",
+    precio: 3100,
+    imagen: "veneno-scarlet.jpg",
+    linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20Veneno%20Scarlet"
+},
+{
+    id: "perfume-chants",
+    nombre: "Chants",
+    marca: "Maison Alhambra",
+    tipo: "completo",
+    precio: 2300,
+    imagen: "chants.jpg",
+    linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20Chants"
+},
+{
+    id: "perfume-set-yara",
+    nombre: "Set Yara",
+    marca: "Lattafa",
+    tipo: "completo",
+    precio: 2690,
+    imagen: "set-yara.jpg",
+    linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20Set%20Yara"
+},
+{
+    id: "perfume-afeef",
+    nombre: "Afeef",
+    marca: "Lattafa",
+    tipo: "completo",
+    precio: 2600,
+    imagen: "afeef.jpg",
+    linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20Afeef"
+},
+{
+    id: "perfume-mayar-cherry-intense",
+    nombre: "Mayar Cherry Intense",
+    marca: "Lattafa",
+    tipo: "completo",
+    precio: 2400,
+    imagen: "mayar-cherry-intense.jpg",
+    linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20Mayar%20Cherry%20Intense"
+},
+{
+    id: "perfume-victoria",
+    nombre: "Victoria",
+    marca: "Lattafa",
+    tipo: "completo",
+    precio: 2500,
+    imagen: "victoria.jpg",
+    linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20Victoria"
+},
+{
+    id: "perfume-hawas-ice",
+    nombre: "Hawas Ice",
+    marca: "Rasasi",
+    tipo: "completo",
+    precio: 2600,
+    imagen: "hawas-ice.jpg",
+    linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20Hawas%20Ice"
+},
+{
+    id: "perfume-hawas-for-him",
+    nombre: "Hawas For Him",
+    marca: "Rasasi",
+    tipo: "completo",
+    precio: 2400,
+    imagen: "hawas-for-him.jpg",
+    linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20Hawas%20For%20Him"
+},
+{
+    id: "perfume-pacific-blue",
+    nombre: "Pacific Blue",
+    marca: "Maison Alhambra",
+    tipo: "completo",
+    precio: 2390,
+    imagen: "pacific-blue.jpg",
+    linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20Pacific%20Blue"
+},
+{
+    id: "perfume-odyssey-bahamas",
+    nombre: "Odyssey Bahamas",
+    marca: "Armaf",
+    tipo: "completo",
+    precio: 2790,
+    imagen: "odyssey-bahamas.jpg",
+    linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20Odyssey%20Bahamas"
+},
+{
+    id: "perfume-cdn-bling",
+    nombre: "CDN Bling",
+    marca: "Armaf",
+    tipo: "completo",
+    precio: 3100,
+    imagen: "cdn-bling.jpg",
+    linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20CDN%20Bling"
+},
+{
+    id: "perfume-cocoa-morado",
+    nombre: "Cocoa Morado",
+    marca: "French Avenue",
+    tipo: "completo",
+    precio: 3000,
+    imagen: "cocoa-morado.jpg",
+    linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20Cocoa%20Morado"
+},
+{
+    id: "perfume-azzure-aoud",
+    nombre: "Azzure Aoud",
+    marca: "French Avenue",
+    tipo: "completo",
+    precio: 3000,
+    imagen: "azzure-aoud.jpg",
+    linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20Azzure%20Aoud"
+},
+{
+    id: "perfume-lovely-cherie",
+    nombre: "Lovely Cherie",
+    marca: "Maison Alhambra",
+    tipo: "completo",
+    precio: 2200,
+    imagen: "lovely-cherie.jpg",
+    linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20Lovely%20Cherie"
+},
 ];
