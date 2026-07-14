@@ -206,12 +206,12 @@ const productos = [
         imagen: "odyssey-pink.jpg",
         linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
     }
-{
+    {
     id: "perfume-island-breeze",
     nombre: "Island Breeze",
     marca: "Maison Alhambra",
     tipo: "completo",
-    precio: 3400,
+    precio: 3399,
     imagen: "island-breeze.jpg",
     linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20Island%20Breeze"
 },
@@ -220,7 +220,7 @@ const productos = [
     nombre: "Veneno Scarlet",
     marca: "French Avenue",
     tipo: "completo",
-    precio: 3100,
+    precio: 3099,
     imagen: "veneno-scarlet.jpg",
     linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20Veneno%20Scarlet"
 },
@@ -229,7 +229,7 @@ const productos = [
     nombre: "Chants",
     marca: "Maison Alhambra",
     tipo: "completo",
-    precio: 2300,
+    precio: 2299,
     imagen: "chants.jpg",
     linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20Chants"
 },
@@ -238,7 +238,7 @@ const productos = [
     nombre: "Set Yara",
     marca: "Lattafa",
     tipo: "completo",
-    precio: 2690,
+    precio: 2699,
     imagen: "set-yara.jpg",
     linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20Set%20Yara"
 },
@@ -247,7 +247,7 @@ const productos = [
     nombre: "Afeef",
     marca: "Lattafa",
     tipo: "completo",
-    precio: 2600,
+    precio: 2599,
     imagen: "afeef.jpg",
     linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20Afeef"
 },
@@ -256,7 +256,7 @@ const productos = [
     nombre: "Mayar Cherry Intense",
     marca: "Lattafa",
     tipo: "completo",
-    precio: 2400,
+    precio: 2399,
     imagen: "mayar-cherry-intense.jpg",
     linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20Mayar%20Cherry%20Intense"
 },
@@ -265,7 +265,7 @@ const productos = [
     nombre: "Victoria",
     marca: "Lattafa",
     tipo: "completo",
-    precio: 2500,
+    precio: 2499,
     imagen: "victoria.jpg",
     linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20Victoria"
 },
@@ -274,7 +274,7 @@ const productos = [
     nombre: "Hawas Ice",
     marca: "Rasasi",
     tipo: "completo",
-    precio: 2600,
+    precio: 2599,
     imagen: "hawas-ice.jpg",
     linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20Hawas%20Ice"
 },
@@ -283,7 +283,7 @@ const productos = [
     nombre: "Hawas For Him",
     marca: "Rasasi",
     tipo: "completo",
-    precio: 2400,
+    precio: 2399,
     imagen: "hawas-for-him.jpg",
     linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20Hawas%20For%20Him"
 },
@@ -292,7 +292,7 @@ const productos = [
     nombre: "Pacific Blue",
     marca: "Maison Alhambra",
     tipo: "completo",
-    precio: 2390,
+    precio: 2399,
     imagen: "pacific-blue.jpg",
     linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20Pacific%20Blue"
 },
@@ -301,7 +301,7 @@ const productos = [
     nombre: "Odyssey Bahamas",
     marca: "Armaf",
     tipo: "completo",
-    precio: 2790,
+    precio: 2799,
     imagen: "odyssey-bahamas.jpg",
     linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20Odyssey%20Bahamas"
 },
@@ -310,7 +310,7 @@ const productos = [
     nombre: "CDN Bling",
     marca: "Armaf",
     tipo: "completo",
-    precio: 3100,
+    precio: 3099,
     imagen: "cdn-bling.jpg",
     linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20CDN%20Bling"
 },
@@ -319,7 +319,7 @@ const productos = [
     nombre: "Cocoa Morado",
     marca: "French Avenue",
     tipo: "completo",
-    precio: 3000,
+    precio: 2999,
     imagen: "cocoa-morado.jpg",
     linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20Cocoa%20Morado"
 },
@@ -328,7 +328,7 @@ const productos = [
     nombre: "Azzure Aoud",
     marca: "French Avenue",
     tipo: "completo",
-    precio: 3000,
+    precio: 2999,
     imagen: "azzure-aoud.jpg",
     linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20Azzure%20Aoud"
 },
@@ -337,7 +337,7 @@ const productos = [
     nombre: "Lovely Cherie",
     marca: "Maison Alhambra",
     tipo: "completo",
-    precio: 2200,
+    precio: 2199,
     imagen: "lovely-cherie.jpg",
     linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20Lovely%20Cherie"
 },
