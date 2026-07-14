@@ -181,7 +181,7 @@ const productos = [
     },
     {
         id: "perfume-club de nuit-intense",
-        nombre: "Cdn Intense",
+        nombre: "Club de Nuit Intense",
         marca: "Armaf",
         tipo: "completo",
         precio: 2399,
@@ -205,5 +205,265 @@ const productos = [
         precio: 2599,
         imagen: "odyssey-pink.jpg",
         linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
-    }
-];
+    },
+ {
+        id: "perfume-yara-moi",
+        nombre: "Yara Moi",
+        marca: "Lattafa",
+        tipo: "completo",
+        precio: 2099,
+        imagen: "yara moi.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
+    },
+ {
+        id: "perfume-yara-rosa",
+        nombre: "Yara Rosa",
+        marca: "Lattafa",
+        tipo: "completo",
+        precio: 2199,
+        imagen: "yara rosa.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
+    }, 
+    {
+        id: "perfume-yara-candy",
+        nombre: "Yara Candy",
+        marca: "Lattafa",
+        tipo: "completo",
+        precio: 2299,
+        imagen: "yara candy.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
+    },
+     {
+        id: "perfume-yara-tous",
+        nombre: "Yara Tous",
+        marca: "Lattafa",
+        tipo: "completo",
+        precio: 2099,
+        imagen: "yara tous.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
+    },
+     {
+        id: "perfume-mayar-intense",
+        nombre: "Mayar natural Intense",
+        marca: "Maison Alhambra",
+        tipo: "completo",
+        precio: 2299,
+        imagen: "mayar.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
+    },
+     {
+        id: "perfume-haya",
+        nombre: "Haya",
+        marca: "Lattafa",
+        tipo: "completo",
+        precio: 2299,
+        imagen: "haya.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
+    },
+     {
+        id: "perfume-sekeena",
+        nombre: "Sekeena",
+        marca: "Lattafa",
+        tipo: "completo",
+        precio: 2299,
+        imagen: "sekeena.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
+    },
+     {
+        id: "perfume-emaan",
+        nombre: "Emaan",
+        marca: "Lattafa",
+        tipo: "completo",
+        precio: 2299,
+        imagen: "emaan.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
+    },
+     {
+        id: "perfume-eclaire",
+        nombre: "Eclaire",
+        marca: "Lattafa",
+        tipo: "completo",
+        precio: 2399,
+        imagen: "eclaire.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
+    },
+     {
+        id: "perfume-sublime",
+        nombre: "Sublime",
+        marca: "Lattafa",
+        tipo: "completo",
+        precio: 2399,
+        imagen: "sublime.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
+    },
+     {
+        id: "perfume-noble",
+        nombre: "Noble Blush",
+        marca: "Lattafa",
+        tipo: "completo",
+        precio: 2399,
+        imagen: "noble.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
+    },
+     {
+        id: "perfume-club-nuit-elixir",
+        nombre: "Club de Nuit Elixir",
+        marca: "Armaf",
+        tipo: "completo",
+        precio: 2799,
+        imagen: "cdn elixir.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
+    },
+     {
+        id: "perfume-club-nuit-iconic",
+        nombre: "Club de Nuit Iconic",
+        marca: "Armaf",
+        tipo: "completo",
+        precio: 2699,
+        imagen: "cdn iconic.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
+    },
+     {
+        id: "perfume-club-nuit-precieux",
+        nombre: "Club de Nuit Precieux",
+        marca: "Armaf",
+        tipo: "completo",
+        precio: 3199,
+        imagen: "precieux.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
+    },
+     {
+        id: "perfume-club-nuit-imperiale",
+        nombre: "Club de Nuit Imperiale",
+        marca: "Armaf",
+        tipo: "completo",
+        precio: 2699,
+        imagen: "imperiale.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
+    },
+     {
+        id: "perfume-club-nuit-woman",
+        nombre: "Club de Nuit Woman",
+        marca: "Armaf",
+        tipo: "completo",
+        precio: 2399,
+        imagen: "woman.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
+    },
+     {
+        id: "perfume-club-nuit-maleka",
+        nombre: "Club de Nuit Maleka",
+        marca: "Armaf",
+        tipo: "completo",
+        precio: 3199,
+        imagen: "maleka.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
+    },
+     {
+        id: "perfume-kamrah",
+        nombre: "Kamrah",
+        marca: "Lattafa",
+        tipo: "completo",
+        precio: 2399,
+        imagen: "kamrah.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
+    },
+     {
+        id: "perfume-qahwa",
+        nombre: "Kamrah Qahwa",
+        marca: "Lattafa",
+        tipo: "completo",
+        precio: 2399,
+        imagen: "qahwa.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
+    },
+     {
+        id: "perfume-dukhan",
+        nombre: "Kamrah Dukhan",
+        marca: "Lattafa",
+        tipo: "completo",
+        precio: 2899,
+        imagen: "dukhan.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
+    },
+     {
+        id: "perfume-sceptre-malachite",
+        nombre: "Sceptre Malachite",
+        marca: "Maison Alhambra",
+        tipo: "completo",
+        precio: 2299,
+        imagen: "malachite.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
+    },
+     {
+        id: "perfume-fakhar",
+        nombre: "Fakhar",
+        marca: "Lattafa",
+        tipo: "completo",
+        precio: 2299,
+        imagen: "fakhar.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
+    },
+     {
+        id: "perfume-fakhar-gold",
+        nombre: "Fakhar Gold Extrait",
+        marca: "Lattafa",
+        tipo: "completo",
+        precio: 2299,
+        imagen: "fakhar gold.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
+    },
+     {
+        id: "perfume-fakhar-rose",
+        nombre: "Fakhar Rose",
+        marca: "Lattafa",
+        tipo: "completo",
+        precio: 2299,
+        imagen: "fakhar rose.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
+    },
+     {
+        id: "perfume-salvo",
+        nombre: "Salvo Intense",
+        marca: "Maison Alhambra",
+        tipo: "completo",
+        precio: 2099,
+        imagen: "salvo.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
+    },
+     {
+        id: "perfume-angham",
+        nombre: "Angham",
+        marca: "Lattafa",
+        tipo: "completo",
+        precio: 2199,
+        imagen: "angham.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
+    },
+     {
+        id: "perfume-hayaaki-black",
+        nombre: "Hayaaki Black",
+        marca: "Lattafa",
+        tipo: "completo",
+        precio: 2599,
+        imagen: "hayaaki black.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
+    },
+     {
+        id: "perfume-qaed-fursan",
+        nombre: "Qaed Al Fursan Unlimited",
+        marca: "Lattafa",
+        tipo: "completo",
+        precio: 1199,
+        imagen: "al fursan unlimited.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
+    },
+     {
+        id: "perfume-qaed-al-fursan",
+        nombre: "Qaed Al Fursan",
+        marca: "Lattafa",
+        tipo: "completo",
+        precio: 1199,
+        imagen: "al fursan.jpg",
+        linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20completo%20Odyssey%20Pink%20Pop"
+    };
