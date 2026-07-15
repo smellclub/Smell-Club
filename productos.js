@@ -456,7 +456,7 @@ const productos = [
     marca: "Lattafa",
     tipo: "completo",
     precio: 2299,
-    imagen: "fakhar gold extrait.jpg",
+    imagen: "fakhar-gold.jpg",
     linkWhatsApp: "https://wa.me/59894055919?text=Hola%21%20Quiero%20el%20perfume%20Fakhar%20Gold%20Extrait"
 },
 {
@@ -492,7 +492,7 @@ const productos = [
     marca: "Lattafa",
     tipo: "completo",
     precio: 1999,
-    imagen: "al fursan unlimited.jpg",
+    imagen: "al-fursan-unlimited.jpg",
     linkWhatsApp: "https://wa.me/59894055919?text=Hola%21%20Quiero%20el%20perfume%20Qaed%20Al%20Fursan%20Unlimited"
 },
 {
@@ -501,7 +501,7 @@ const productos = [
     marca: "Lattafa",
     tipo: "completo",
     precio: 1999,
-    imagen: "al fursan.jpg",
+    imagen: "al-fursan.jpg",
     linkWhatsApp: "https://wa.me/59894055919?text=Hola%21%20Quiero%20el%20perfume%20Qaed%20Al%20Fursan"
 },
 {
@@ -510,7 +510,7 @@ const productos = [
     marca: "Afnan",
     tipo: "completo",
     precio: 2699,
-    imagen: "9am dive.jpg",
+    imagen: "9am-dive.jpg",
     linkWhatsApp: "https://wa.me/59894055919?text=Hola%21%20Quiero%20el%20perfume%209AM%20Dive"
 },
 {
@@ -618,7 +618,7 @@ const productos = [
     marca: "Lattafa",
     tipo: "completo",
     precio: 2099,
-    imagen: "yara moi.jpg",
+    imagen: "yara-moi.jpg",
     linkWhatsApp: "https://wa.me/59894055919?text=Hola%21%20Quiero%20el%20perfume%20Yara%20Moi"
 },
 {
@@ -627,7 +627,7 @@ const productos = [
     marca: "Lattafa",
     tipo: "completo",
     precio: 2199,
-    imagen: "yara rosa.jpg",
+    imagen: "yara-rosa.jpg",
     linkWhatsApp: "https://wa.me/59894055919?text=Hola%21%20Quiero%20el%20perfume%20Yara%20Rosa"
 },
 {
@@ -645,7 +645,7 @@ const productos = [
     marca: "Lattafa",
     tipo: "completo",
     precio: 2099,
-    imagen: "yara tous.jpg",
+    imagen: "yara-tous.jpg",
     linkWhatsApp: "https://wa.me/59894055919?text=Hola%21%20Quiero%20el%20perfume%20Yara%20Tous"
 },
 {
@@ -703,51 +703,6 @@ const productos = [
     linkWhatsApp: "https://wa.me/59894055919?text=Hola%21%20Quiero%20el%20perfume%20Eclaire"
 },
 {
-    id: "perfume-oud-for-glory",
-    nombre: "Oud for Glory",
-    marca: "Lattafa",
-    tipo: "completo",
-    precio: 2399,
-    imagen: "oud-for-glory.jpg",
-    linkWhatsApp: "https://wa.me/59894055919?text=Hola%21%20Quiero%20el%20perfume%20Oud%20for%20Glory"
-},
-{
-    id: "perfume-honor-and-glory",
-    nombre: "Honor & Glory",
-    marca: "Lattafa",
-    tipo: "completo",
-    precio: 2399,
-    imagen: "honor-and-glory.jpg",
-    linkWhatsApp: "https://wa.me/59894055919?text=Hola%21%20Quiero%20el%20perfume%20Honor%20%26%20Glory"
-},
-{
-    id: "perfume-amethyst",
-    nombre: "Amethyst",
-    marca: "Lattafa",
-    tipo: "completo",
-    precio: 2399,
-    imagen: "amethyst.jpg",
-    linkWhatsApp: "https://wa.me/59894055919?text=Hola%21%20Quiero%20el%20perfume%20Amethyst"
-},
-{
-    id: "perfume-sublime",
-    nombre: "Sublime",
-    marca: "Lattafa",
-    tipo: "completo",
-    precio: 2399,
-    imagen: "sublime.jpg",
-    linkWhatsApp: "https://wa.me/59894055919?text=Hola%21%20Quiero%20el%20perfume%20Sublime"
-},
-{
-    id: "perfume-noble-blush",
-    nombre: "Noble Blush",
-    marca: "Lattafa",
-    tipo: "completo",
-    precio: 2399,
-    imagen: "noble-blush.jpg",
-    linkWhatsApp: "https://wa.me/59894055919?text=Hola%21%20Quiero%20el%20perfume%20Noble%20Blush"
-},
-{
     id: "perfume-bharara-hombre",
     nombre: "Bharara",
     marca: "Bharara",
@@ -791,15 +746,6 @@ const productos = [
     precio: 2599,
     imagen: "odyssey-aqua.jpg",
     linkWhatsApp: "https://wa.me/59894055919?text=Hola%21%20Quiero%20el%20perfume%20Odyssey%20Aqua"
-},
-{
-    id: "perfume-odyssey-homme",
-    nombre: "Odyssey Homme",
-    marca: "Armaf",
-    tipo: "completo",
-    precio: 2599,
-    imagen: "odyssey-homme.jpg",
-    linkWhatsApp: "https://wa.me/59894055919?text=Hola%21%20Quiero%20el%20perfume%20Odyssey%20Homme"
 },
 {
     id: "perfume-odyssey-limoni",
