@@ -330,7 +330,7 @@ const productos = [
     marca: "French Avenue",
     tipo: "completo",
     precio: 2999,
-    imagen: "azzure aoud.jpg",
+    imagen: "azzure-aoud.jpg",
     linkWhatsApp: "https://wa.me/59894055919?text=Hola!%20Quiero%20el%20perfume%20Azzure%20Aoud"
 },
 {
@@ -366,7 +366,7 @@ const productos = [
     marca: "Armaf",
     tipo: "completo",
     precio: 3199,
-    imagen: "cdn-precieux.jpg",
+    imagen: "cdn-precieux.png",
     linkWhatsApp: "https://wa.me/59894055919?text=Hola%21%20Quiero%20el%20perfume%20CDN%20Precieux"
 },
 {
