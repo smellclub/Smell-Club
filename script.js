@@ -51,13 +51,18 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     }
 
-    cargarProductos();const buscador = document.getElementById("buscador");
+  // Cargar todos los productos al iniciar
+cargarProductos();
+
+// BUSCADOR
+const buscador = document.getElementById("buscador");
 
 if (buscador) {
     buscador.addEventListener("input", () => {
         cargarProductos(buscador.value);
     });
 }
+
 // --- LÓGICA DEL MENÚ MÓVIL ---
     const mobileMenuBtn = document.getElementById("mobile-menu");
     const navMenu = document.querySelector(".nav-menu");
