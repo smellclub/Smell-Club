@@ -2,11 +2,17 @@ document.addEventListener("DOMContentLoaded", () => {
     const perfumesContainer = document.getElementById("perfumes-container");
     const decantsContainer = document.getElementById("decants-container");
 
-    function cargarProductos() {
+   function cargarProductos(busqueda = "") {
         perfumesContainer.innerHTML = "";
         decantsContainer.innerHTML = "";
-
-        productos.forEach(prod => {
+       const texto = busqueda.toLowerCase();
+       
+     productos
+.filter(prod =>
+    prod.nombre.toLowerCase().includes(texto) ||
+    prod.marca.toLowerCase().includes(texto)
+)
+.forEach(prod => {
             let infoPrecioHTML = "";
 
             // Adaptamos la visualización según si es frasco completo o decant
@@ -45,7 +51,13 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     }
 
-    cargarProductos();
+    cargarProductos();const buscador = document.getElementById("buscador");
+
+if (buscador) {
+    buscador.addEventListener("input", () => {
+        cargarProductos(buscador.value);
+    });
+}
 // --- LÓGICA DEL MENÚ MÓVIL ---
     const mobileMenuBtn = document.getElementById("mobile-menu");
     const navMenu = document.querySelector(".nav-menu");
