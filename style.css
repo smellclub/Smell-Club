@@ -346,13 +346,15 @@ h1, h2, h3 {
 }
 
 .product-image-container {
-    height: 250px;
-    overflow: hidden;
+    height: 300px;
+    display: flex;
+   align-items:center;
+   justify-content:center;
 }
 
 .product-img {
-    width: 250px;
-    height: 250px;
+    width: 100%;
+    height: 300px;
     object-fit: contain;
 }
 
