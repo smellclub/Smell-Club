@@ -346,23 +346,21 @@ h1, h2, h3 {
 }
 
 .product-image-container {
-  width: 100%;
-  height: 280px;          /* Altura fija idéntica para todos los contenedores */
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  overflow: hidden;
-  background-color: rgba(255, 255, 255, 0.02); /* Opcional: fondo sutil para unificar */
-  padding: 15px;          /* Evita que los perfumes toquen los bordes de la tarjeta */
+  width: 100% !important;
+  height: 280px !important;    /* Ajusta este número según qué tan altas quieras las tarjetas */
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  overflow: hidden !important;
+  padding: 15px !important;
 }
 
 .product-image {
-  max-width: 100%;
-  max-height: 100%;
-  width: auto;
-  height: auto;
-  object-fit: contain;    /* Mantiene la proporción perfecta sin deformar el perfume */
-  transition: transform 0.4s ease;
+  max-width: 100% !important;
+  max-height: 100% !important;
+  width: auto !important;
+  height: auto !important;
+  object-fit: contain !important;
 }
 
 .product-card:hover .product-image {
