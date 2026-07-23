@@ -483,7 +483,7 @@ const productos = [
     marca: "Lattafa",
     tipo: "completo",
     precio: 2599,
-    imagen: "hayaaki-black.jpg",
+    imagen: "hayaati-black.jpg",
     linkWhatsApp: "https://wa.me/59894055919?text=Hola%21%20Quiero%20el%20perfume%20Hayaati%20Black"
 },
 {
